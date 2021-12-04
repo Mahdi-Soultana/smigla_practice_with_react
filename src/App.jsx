@@ -1,10 +1,10 @@
 import { useState } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Form from "./components/From/Form";
+import MotionCard from "./components/MotionCard";
 
 function App() {
-  return <Form />;
+  return <MotionCard />;
 }
 
 export default App;
